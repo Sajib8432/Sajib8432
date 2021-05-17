@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sajib8432
+- 👋 Hi, I’m Sajib Bain (@Sajib8432). I'm an Electrical and Electronics Engineering (EEE) student at Bangladesh University of Engineering and Techonology (BUET).
 - 👀 I’m interested in Web design and Development. I also love to develop web app. Making E-commerce website is my passion. I love to convert any design to a live website.
 - 🌱 I’m currently learning Python for Machine learning, Matlab for Signal processing and automation, Arduino for makeing something cool. And updating my knowladge on Web development field. 
 - 💞️ I’m looking to collaborate on any web design and development project or any Matlab based project, project with Arduino as well.
